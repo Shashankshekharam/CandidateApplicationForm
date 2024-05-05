@@ -1,4 +1,4 @@
-# CandidateApplicationForm
+# CandidateApplicationPlatForm
 
 # Getting Started with Create React App
 
@@ -12,6 +12,12 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+So before that you need to use commands like ---   npm install or if  there's a dependency resolution issue with package 
+This can happen when different packages require conflicting versions of the same dependency.
+
+To resolve this, you can try a few options:
+Retry with --force or --legacy-peer-deps: You can try running npm install --force
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
